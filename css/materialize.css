@@ -4393,6 +4393,12 @@ html {
   }
 }
 
+p2 {
+  font-weight: 400;
+  line-height: 1.1;
+  color: #848484;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   line-height: 1.1;
@@ -4433,10 +4439,12 @@ h5 {
 }
 
 h6 {
-  font-size: 1rem;
+  font-size: 1.64rem;
   line-height: 110%;
-  margin: 0.5rem 0 0.4rem 0;
+  margin: 0.82rem 0 0.656rem 0;
+  color: #B40404;
 }
+
 
 em {
   font-style: italic;
